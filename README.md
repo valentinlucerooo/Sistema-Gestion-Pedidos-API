@@ -7,7 +7,7 @@
  **Acceso a datos** ADO.NET /Mappers Personalizados.
  **Control de Verciones** Git y GitHub
 
- ##Estructura del Proyecto 
+ ## Estructura del Proyecto 
  el proyecto esta organizado respetando la separacion de responsabilidades:
  **Entidades(Entities)** modelo de dominio ("Usuario","Producto","Envio","DetallePedido","Pedido").
  **Capa de Negocio(BLL)** Validaciones y reglas de negocio.
